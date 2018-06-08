@@ -1,0 +1,144 @@
+*{
+   box-sizing: border-box;
+}
+body{
+      background-image: url("../images/bg.jpg");
+         background-size: cover;
+             background-repeat: no-repeat;
+}
+
+.header{
+    text-align: center;
+      margin-top: 80px;
+         margin-bottom: 50px;
+
+}
+.header a{
+      text-decoration: none;
+        color:#fff;
+          font-family: sans-serif;
+             font-size: 80px;
+}
+.header a span {
+       color:#BCBABA;
+         font-size: 20px;
+          font-family: monospace;
+            display: block;
+}
+.one {
+     background-color:#fff;
+       width: 1200px;
+        margin: 0 auto;
+         overflow: hidden;
+}
+.one p{ color:#7A7A7A;}
+  
+.one img{width: 100%;}
+   
+ .oneo{
+     text-align: center;
+        padding: 40px;
+}
+.two{
+      background-color:#EFEAEA;
+        padding: 70px;
+}
+ .two p{margin-bottom: 40px;}
+   
+
+ .three{
+     background-color:#303030;
+       padding: 30px;
+         padding-bottom: 50px;
+}
+ .uii{
+     background-color:#161515;
+       color:#fff;
+         width:900px;
+           margin-top:40px ;
+            text-align: center;
+              overflow: hidden;
+               transform: translateX(120px);   
+}
+.uii > div{
+    width:449px;
+      border:1px solid #fff; 
+}
+ .gal1 , .gal3{float:left;}
+   
+ .gal2 , .gal4{ float:right;}
+   
+.four , .five , .six{
+    overflow: hidden;
+       margin: 0;
+}
+   
+ .photo1{
+    float: left;
+      width: 50%;
+        height:450px;
+  
+}
+.par1{
+   float: right;
+     width: 50%;
+      padding:110px 80px;
+       line-height: 30px;
+        background-color:#F5F5F5;
+         height:450px;
+}
+
+.par2{
+    float: left;
+      width: 50%;
+       padding:110px 80px;
+        line-height: 30px;
+         background-color: #1E1F23;
+          height:454px;
+
+}
+.par2 h3{color:#fff;}
+   
+ .photo2{
+   float: right;
+     width: 50%;
+       height:454px;
+   
+}
+ .photo3{
+   float: left;
+     width: 50%;
+      height:450px;
+
+}
+ .par3{
+   float:right ;
+     width: 50%;
+       padding:110px 80px;
+        line-height: 30px;
+         background-color: #F5F5F5;
+           height:450px;
+}
+.footer{
+    text-align: center;
+}
+.content {
+   background: transparent;
+   color: #FFFFFF;
+   
+ 
+}
+.content ul{
+   list-style: none;
+  border :10px ;
+
+}
+.content ul li{
+     font-size: 30px;
+      display:inline;
+     
+ }
+ .content ul a {color: #fff;}
+   
+.content ul li i { margin: 10px;}
+  
